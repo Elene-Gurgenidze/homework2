@@ -47,7 +47,7 @@ input[type="text"] {
   color: white;
   border: none;
   border-radius: 3px;
-  margin-left: 10px; /* input-სა და button-ს შორის spacing */
+  margin-left: 10px;
   cursor: pointer;
 }
 
